@@ -63,9 +63,10 @@ input, textarea {
 /* fin Formulario */
 
 .std{
-    color:gray; 
+    color:#c2cfd2; 
     font-size: 28px; 
     font-family:sans-serif;
+    padding: 20px;
 }
 .footer {
     background: gray;
