@@ -23,7 +23,7 @@ nav li a {
 /* @media-query */
 
 body {
-  background: #1e2027
+  background-color: #1e2027 !important;
 }
 
 
