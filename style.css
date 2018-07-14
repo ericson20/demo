@@ -14,7 +14,11 @@ p {
 
   margin: 0 auto;
 }
-
+li{
+  color: #c2cfd2;
+  font-size: 24px;
+  list-style: none;
+}
 
 /*primero en el móvil (mobile first)*/
 
